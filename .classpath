@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/bson-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/java-json.jar"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/mongo-java-driver-3.4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/mongodb-driver-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yavuz/Desktop/BilSwap/mongodb-driver-core-3.4.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
